@@ -14,7 +14,7 @@ public class BookTest {
 		book[4] = new Book("태백산맥5","조정래");
 		
 		book[2] = new Book("산맥3","조정");
-		System.arraycopy(book, 0, copyBook, 0, 5);
+		System.arraycopy(book, 0, copyBook, 0, 5);  //얕은 복사 객체의 주소 공유
 		
 		book[3] = new Book("산맥3","조정");
 		
