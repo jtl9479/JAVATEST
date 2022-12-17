@@ -10,7 +10,9 @@ public class Son extends Parents {
 	public  String hungry() {
 
 		String s = "밥주세요";	
-		
+		String s1 = "밥주세요";	
+		String s2 = "밥주세요";	
+	
 		return s;
 	}
 	
