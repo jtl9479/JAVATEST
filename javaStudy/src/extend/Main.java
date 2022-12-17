@@ -5,13 +5,8 @@ public class Main {
 	public static void main(String[] args) {
 		
 		test t = new test();
-	
 		
 		System.out.println(Son.son2);
-		System.out.println(Son.son2);
-		System.out.println(Son.son2);
-		System.out.println(Son.son2);
-		
 		
 		Son s = new Son();
 		Parents p = new Son();
