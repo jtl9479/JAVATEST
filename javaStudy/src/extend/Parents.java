@@ -6,6 +6,7 @@ public class Parents {
 	static String a;
 	
 	static int b = 0;
+	static int b1 = 0;
 	
 	
 	Parents() {
