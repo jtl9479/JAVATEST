@@ -7,6 +7,7 @@ public class Main {
 		test t = new test();
 		
 		System.out.println(Son.son2);
+		System.out.println(Son.son2);
 		
 		Son s = new Son();
 		Parents p = new Son();
